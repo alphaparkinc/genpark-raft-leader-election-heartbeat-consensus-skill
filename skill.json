@@ -1,0 +1,16 @@
+{
+  "name": "genpark-raft-leader-election-heartbeat-consensus-skill",
+  "version": "1.0.0",
+  "description": "Raft consensus leader election state machine, term arbitration, randomized heartbeat timers, and split-vote resolver.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "raft",
+    "consensus",
+    "leader-election",
+    "multi-agent",
+    "heartbeat",
+    "genpark",
+    "mcp"
+  ]
+}
